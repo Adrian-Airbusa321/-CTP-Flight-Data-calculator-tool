@@ -22,7 +22,7 @@ Flight data Calculator/
 |
 |---Tool/
     |---_pycache_/
-    |   |---fuel_calculator.cpython310
+    |   |---fuel_calculator.cpython310.pyc
     |
     |---fuel_calculator.py
 
